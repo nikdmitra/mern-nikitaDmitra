@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "jwtSecret":"Nikitaaaa",
+    "mongoUri":"mongodb+srv://Vasa:qqqqqqqq@cluster0.tphxb.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:5000"
+    
+}
